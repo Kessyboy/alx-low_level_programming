@@ -1,9 +1,9 @@
-#include <stdio.h>
+i#include <stdio.h>
 #include <unistd.h>
 /**
 * main - A C programme that prints a line to standard 
 *
-* Return Always 1 (Success)
+* Return: Always 1 (Success)
 */
 int main(void)
 {
