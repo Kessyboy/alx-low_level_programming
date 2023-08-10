@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
-* main - display output using prinf
+* main - display output using printf
 *
 * Return: Always 0 (Success)
 *
