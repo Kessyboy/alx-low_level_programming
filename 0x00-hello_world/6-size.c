@@ -1,6 +1,5 @@
 #include <stdio.h>
 /*
-
 * main - Entry point
 *
 * Return: Alwyas 0 (Success)
