@@ -1,4 +1,4 @@
-i#include <stdio.h>
+#include <stdio.h>
 #include <unistd.h>
 /**
 * main - A C programme that prints a line to standard 
