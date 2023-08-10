@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
-* main - A C programme that prints a line to standard 
+* main - A C programme that prints a line to standard
 *
 * Return: Always 1 (Success)
 */
