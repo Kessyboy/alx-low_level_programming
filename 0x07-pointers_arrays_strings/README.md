@@ -1,0 +1,3 @@
+
+
+inters array strings 
