@@ -3,13 +3,13 @@
 #include <stdlib.h>
 
 /**
-* main - prints a string
-* @argc: lengths of arguments
-* @argv: pointer to an array of stringd/arguments
-* Return: always 0
-*/
+ * main - prints a string
+ * @argc: length of arguments
+ * @argv: pointer to an array of strings/arguments
+ * Return: always 0
+ */
 
-int main (int argc, char *argv[])
+int main(int argc, char *argv[])
 {
 	int i;
 	int mul = 1;
@@ -27,4 +27,3 @@ int main (int argc, char *argv[])
 	printf("%d\n", mul);
 	return (0);
 }
-
