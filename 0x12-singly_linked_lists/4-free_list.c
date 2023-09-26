@@ -4,18 +4,17 @@
 /**
  * free_list -function parameter
  * @head: parameter
- * Return:(0)Always
  */
 
 void free_list(list_t *head)
 {
-	list_t *elem;
+	list_t *temp;
 
 	while (head)
 	{
-		elem = head->next;
-		free(elem->str);
+		temp = head->next;
+		free(temp->str);
 		free(head);
-		head = elem;
+		head = temp;
 	}
 }
